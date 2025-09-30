@@ -31,7 +31,7 @@
   "course_title": "Computer Systems Security",
   "hide_download": true,
   "mit_learn_topics": [],
-  "course_description": "This course covers design and implementation of secure computer systems. The lectures cover attacks that compromise security as well as techniques for achieving security, based on recent research papers. Topics include operating system security, privilege separation, capabilities, language-based security, cryptographic network protocols, trusted hardware, and security in web applications and mobile phones. The labs involve implementing and compromising a web application that sandboxes arbitrary code, supporting TLS certificates, and adding two-factor authentication.\n\nThe course materials, which can be accessed via the external link to the left, are available for reuse under a Creative Commons [Attribution 3.0](https://creativecommons.org/licenses/by/3.0/us/) license.",
+  "course_description": "This course covers design and implementation of secure computer systems. The lectures cover attacks that compromise security as well as techniques for achieving security, based on recent research papers. Topics include operating system security, privilege separation, capabilities, language-based security, cryptographic network protocols, trusted hardware, and security in web applications and mobile phones. The labs involve implementing and compromising a web application that sandboxes arbitrary code, supporting TLS certificates, and adding two-factor authentication.\n\nThe course materials, which can be accessed via the external link to the left, are available for reuse under a Creative Commons {{% resource_link \"48cbf205-f5ec-4dd7-a443-508d27f9d5ca\" \"Attribution 3.0\" %}} license.",
   "department_numbers": [
     "6"
   ],
